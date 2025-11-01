@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me  
 🚀 I'm a passionate developer with **1 year of experience** building dynamic web applications using **Python and Django**.  
-💼 Currently working as a **Django Developer at Infodawn, Pathanamthitta**.  
+💼 Currently working as a **python Developer at Infodawn, Pathanamthitta**.  
 🌱 Continuously learning and upgrading my skills in **backend** and **full-stack development**.  
 🤝 Looking to collaborate on **open-source Django or Python projects**.  
 💬 Ask me about anything related to **Python, Django, or web development**.  
